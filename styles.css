@@ -1,9 +1,13 @@
 html{
 
-    background-color:blanchedalmond;
+    background-color:rgb(217, 160, 75);
 }
 .isak{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    font-size:2.3rem;
-    color:darkblue
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:2.0rem;
+    color:rgb(5, 5, 32);
+    margin-top: 10px
+}
+.flyttebilde{
+    margin-right: 50px;
 }
